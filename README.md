@@ -8,14 +8,6 @@
 
 Get up and running with large language models.
 
-### macOS
-
-[Download](https://ollama.com/download/Ollama-darwin.zip)
-
-### Windows
-
-[Download](https://ollama.com/download/OllamaSetup.exe)
-
 ### Linux
 
 ```shell
